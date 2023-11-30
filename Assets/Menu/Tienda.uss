@@ -1,0 +1,44 @@
+#horizontal_box_1 {position:absolute; width:100%; top:80%;height:20%;background-color:rgba(255,0,0,0);left:0%;border-width: 0px;}
+
+#horizontal_box_1 > Button {position:absolute; top:50%; width: 10%; border-width:5px;translate: -50% -50%;border-radius: 8px;border-color:black;
+transition: background-color, 0.7s; height:80%;}
+
+#menu_1 {left:12.5%;background-color:rgba(74, 99, 53, 1); color:white;  -unity-font-style: bold;}
+#menu_2 {left:37.5%;background-color:rgba(74, 99, 53, 1); color:white;  -unity-font-style: bold;}
+#menu_3 {left:62.5%;background-color:rgba(74, 99, 53, 1); color:white;  -unity-font-style: bold;}
+#menu_4 {left:87.5%;background-color:rgba(74, 99, 53, 1); color:white;  -unity-font-style: bold;}
+
+#menu_1:hover {left:12.5%;background-color:rgba(0,255,200,0.5);}
+#menu_2:hover {left:37.5%;background-color:rgba(0,255,200,0.5);}
+#menu_3:hover {left:62.5%;background-color:rgba(0,255,200,0.5);}
+#menu_4:hover {left:87.5%;background-color:rgba(0,255,200,0.5);}
+
+#horizontal_box_2 {position:absolute; width:100%; top:43%;height:20%;background-color:rgba(255,0,0,0);left:0%;border-width: 0px;}
+
+#horizontal_box_2 > Button {position:absolute; top:50%; width: 10%; border-width:5px;translate: -50% -50%;border-radius: 8px;border-color:black;
+transition: background-color, 0.7s; height:80%;}
+
+#menu_5 {left:12.5%;background-color:rgba(74, 99, 53, 1); color:white;  -unity-font-style: bold;}
+#menu_6 {left:37.5%;background-color:rgba(74, 99, 53, 1); color:white;  -unity-font-style: bold;}
+#menu_7 {left:62.5%;background-color:rgba(74, 99, 53, 1); color:white;  -unity-font-style: bold;}
+#menu_8 {left:87.5%;background-color:rgba(74, 99, 53, 1); color:white;  -unity-font-style: bold;}
+
+#menu_5:hover {left:12.5%;background-color:rgba(0,255,200,0.5);}
+#menu_6:hover {left:37.5%;background-color:rgba(0,255,200,0.5);}
+#menu_7:hover {left:62.5%;background-color:rgba(0,255,200,0.5);}
+#menu_8:hover {left:87.5%;background-color:rgba(0,255,200,0.5);}
+
+#horizontal_box_3 {position:absolute; width:100%; top:5%;height:20%;background-color:rgba(255,0,0,0);left:0%;border-width: 0px;}
+
+#horizontal_box_3 > Button {position:absolute; top:50%; width: 10%; border-width:5px;translate: -50% -50%;border-radius: 8px;border-color:black;
+transition: background-color, 0.7s; height:80%;}
+
+#menu_9 {left:12.5%;background-color:rgba(74, 99, 53, 1); color:white;  -unity-font-style: bold;}
+#menu_10 {left:37.5%;background-color:rgba(74, 99, 53, 1); color:white;  -unity-font-style: bold;}
+#menu_11 {left:62.5%;background-color:rgba(74, 99, 53, 1); color:white;  -unity-font-style: bold;}
+#menu_12 {left:87.5%;background-color:rgba(74, 99, 53, 1); color:white;  -unity-font-style: bold;}
+
+#menu_9:hover {left:12.5%;background-color:rgba(0,255,200,0.5);}
+#menu_10:hover {left:37.5%;background-color:rgba(0,255,200,0.5);}
+#menu_11:hover {left:62.5%;background-color:rgba(0,255,200,0.5);}
+#menu_12:hover {left:87.5%;background-color:rgba(0,255,200,0.5);}

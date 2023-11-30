@@ -1,0 +1,61 @@
+#vertical_box {
+    position: absolute;
+    left: 80%;
+    width: 20%;
+    height: 70%;
+    top: 10%;
+    background-color: rgba(0, 0, 255, 0);
+    border-width: 0;
+    color: white;
+    -unity-font-style: normal;
+    -unity-font: url('Assets/Menu/Corn_Farm.ttf');
+    -unity-font-definition:none; 
+}
+
+#vertical_box > Button {
+    position: absolute;
+    width: 80%;
+    border-width: 5px;
+    border-radius: 8px;
+    border-color: black;
+    transition: background-color, 0.7s;
+}
+
+#bttn_1 {
+    background-color: rgb(62, 42, 15);
+}
+
+#bttn_2 {
+    top: 30%;
+    background-color: rgb(62, 42, 15);
+}
+
+#bttn_3 {
+    top: 60%;
+    background-color: rgb(62, 42, 15);
+}
+
+#bttn_4 {
+    top: 90%;
+    background-color: rgb(62, 42, 15);
+}
+
+#bttn_1:hover {
+    background-color: rgb(74, 99, 53);
+    border-color:white;
+}
+
+#bttn_2:hover {
+    background-color: rgb(74, 99, 53);
+    border-color:white;
+}
+
+#bttn_3:hover {
+    background-color: rgb(74, 99, 53);
+    border-color:white;
+}
+
+#bttn_4:hover {
+    background-color: rgb(74, 99, 53);
+    border-color:white;
+}

@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Menu/box_style.uss?fileID=7433441132597879392&amp;guid=374fb2ef22d81ea498e8af1dfbe683d4&amp;type=3#box_style" />
+    <ui:Box name="vertical_box" style="-unity-font: url(&apos;project://database/Assets/Menu/Corn_Farm.ttf?fileID=12800000&amp;guid=e09ad759398888b4abc2b43ee0918002&amp;type=3#Corn_Farm&apos;);">
+        <ui:Button name="bttn_1" text="Arboles" />
+        <ui:Button name="bttn_2" text="Arbustos" />
+        <ui:Button name="bttn_3" text="Plantas" />
+        <ui:Button name="bttn_4" text="Volver" />
+    </ui:Box>
+</ui:UXML>
